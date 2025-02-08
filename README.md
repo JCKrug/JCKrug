@@ -1,10 +1,10 @@
 
 ## 👋 Hi, I am Janina
 
-For over 10 years, I've been navigating the world of **e-commerce management**, driving exciting projects for digital shops, apps, and omnichannel strategies. But I believe, data is the key to the future – that's why I'm currently diving deep into **data analytics**!  
+For over 10 years, I've been navigating the world of **E-commerce management**, driving exciting projects for digital shops, apps, and omnichannel strategies. I believe, data is the key to the future – that's why I'm currently diving deep into the field of **data analytics**!
 
 ## 🎯 My Goal  
-Making E-commerce even more successful with **intelligent data analysis** – through **better decision-making, personalized customer experiences & optimized processes**.  
+Making E-commerce even more successful with **intelligent analysis** – through **better decision-making, personalized customer experiences & optimized processes**.  
 
 ## 🔍 Currently Learning:  
 - **SQL & Python and GA4 for data analysis**  
@@ -14,7 +14,7 @@ Making E-commerce even more successful with **intelligent data analysis** – th
 ## 💼 My Experience  
 ✅ 10 years in **E-commerce project management**  
 ✅ Successful **shop launches & platform migrations**  
-✅ Strong **bridge between business & IT**  
+✅ Strong facilitator and **bridge between business & IT**  
 
 👀 Feel free to check out my repositories – I share **data analysis projects, Python scripts & presentations on e-commerce**!  
 
