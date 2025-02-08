@@ -1,21 +1,19 @@
+## Hi, I’m Janina
+With over a decade of experience in E-commerce management, I have successfully led and executed high-impact projects across digital shops, mobile applications, and omnichannel strategies. My expertise lies in bridging the gap between business, technology, and data, ensuring that every initiative drives measurable growth and operational efficiency.
 
-# 👋 Hi, I am Janina
+In today’s data-driven landscape, analytics is the key to unlocking competitive advantages—which is why I am currently deepening my knowledge in data analytics, predictive modeling, and business intelligence to elevate E-commerce strategies to the next level.
 
-For over 10 years, I've been navigating the world of **E-commerce management**, driving exciting projects for digital shops, apps, and omnichannel strategies. I believe, data is the key to the future – that's why I'm currently diving deep into the field of **data analytics**!
+### 🎯 My Mission
+Leveraging advanced analytics to enhance decision-making, optimize processes, and deliver hyper-personalized customer experiences that drive retention and revenue.
 
-## 🎯 My Goal  
-Making E-commerce even more successful with **intelligent analysis** – through **better decision-making, personalized customer experiences & optimized processes**.  
+### 🔍 Key Focus Areas
+- Data Analytics & Business Intelligence (SQL, Python, GA4)
+- Interactive Dashboards & Performance Monitoring (Power BI, Tableau)
+- Predictive Analytics & Machine Learning for E-commerce optimization
 
-## 🔍 Currently Learning:  
-- **SQL & Python and GA4 for data analysis**  
-- **Power BI & Tableau for interactive dashboards**  
-- **Machine learning for predictive modeling**  
+###💼 Proven Track Record
+✅ 10+ years in E-commerce project management
+✅ Successful end-to-end shop launches, platform migrations & digital transformations
+✅ Expert communicator & strategic bridge between business, IT & data teams
 
-## 💼 My Experience  
-✅ 10 years in **E-commerce project management**  
-✅ Successful **shop launches & platform migrations**  
-✅ Strong facilitator and **bridge between business & IT**  
-
-👀 Feel free to check out my repositories – I share **data analysis projects, Python scripts & presentations on e-commerce**!  
-
-📩 Connect with me on [LinkedIn](www.linkedin.com/in/janina-krug) and drop me a message there. 
+👀 Explore my repositories for data analysis projects, Python-based automations, and insights into E-commerce analytics. Let's connect and discuss the future of data-driven commerce! 🚀
