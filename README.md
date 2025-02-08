@@ -11,7 +11,7 @@ Leveraging advanced analytics to enhance decision-making, optimize processes, an
 - Interactive Dashboards & Performance Monitoring (Power BI, Tableau)
 - Predictive Analytics & Machine Learning for E-commerce optimization
 
-###💼 Proven Track Record
+### 💼 Proven Track Record
 ✅ 10+ years in E-commerce project management
 ✅ Successful end-to-end shop launches, platform migrations & digital transformations
 ✅ Expert communicator & strategic bridge between business, IT & data teams
