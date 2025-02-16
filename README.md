@@ -1,5 +1,5 @@
 ## Hi, I’m Janina
-With over a decade of experience in E-commerce management, I have successfully led and executed high-impact projects across digital shops, mobile applications, and omnichannel strategies. My expertise lies in bridging the gap between business, technology, and data, ensuring that every initiative drives measurable growth and operational efficiency.
+With over a decade of experience in E-commerce, I have successfully led and executed high-impact projects across digital shops, mobile applications, and omnichannel strategies. My expertise lies in bridging the gap between business, technology, and data, ensuring that every initiative drives measurable growth and operational efficiency.
 
 In today’s data-driven landscape, analytics is the key to unlocking competitive advantages—which is why I am currently deepening my knowledge in data analytics, predictive modeling, and business intelligence to elevate E-commerce strategies to the next level.
 
