@@ -12,7 +12,7 @@ Leveraging advanced analytics to enhance decision-making, optimize processes, an
 - Predictive Analytics & Machine Learning for E-commerce optimization
 
 ### 💼 Proven Track Record
-✅ 10+ years in E-commerce project management
+✅ 10+ years in E-commerce project management and leadership experience
 
 ✅ Successful end-to-end shop launches, platform migrations & digital transformations
 
