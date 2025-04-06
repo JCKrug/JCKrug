@@ -4,7 +4,7 @@ With over a decade of experience in E-commerce, I have successfully led and exec
 In today’s data-driven landscape, analytics is the key to unlocking competitive advantages—which is why I am currently deepening my knowledge in data analytics, predictive modeling, and business intelligence to elevate E-commerce strategies to the next level.
 
 ### 🎯 My Mission
-Leveraging advanced analytics to enhance decision-making, optimize processes, and deliver hyper-personalized customer experiences that drive retention and revenue.
+Leveraging advanced analytics to enhance decision-making, optimize processes, and deliver personalized customer experiences that drive retention and revenue.
 
 ### 🔍 Key Focus Areas
 - Data Analytics & Business Intelligence (SQL, Python, GA4)
